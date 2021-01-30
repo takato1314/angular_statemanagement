@@ -3,7 +3,7 @@
 Exploring the various State Management Libraries for Angular:
 
 - [Ngrx](https://github.com/ngrx/platform)
-- [Ngxs](https://github.com/ngxs/store)
+- __[Ngxs](https://github.com/ngxs/store) (This branch)__
 - [Akita](https://github.com/datorama/akita)
 
 ## Usage
